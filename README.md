@@ -1,3 +1,3 @@
 # GO_WEB_NATIVE
 
-![THUMNAIL ](./thumnail.png)
+![THUMNAIL ](./WEB.png)
