@@ -17,3 +17,6 @@ func ConnectDB() {
 log.Println("Database Connected")
 	DB = db
 }
+
+
+//Kegunaan digunakan untuk melakukan configurasi database 
